@@ -1,0 +1,250 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+import pandas as pd
+import sklearn
+from sklearn.model_selection import train_test_split
+import configparser
+import logging, logging.config
+from sklearn.metrics import confusion_matrix
+import re
+import os
+import signal
+import nltk
+import group_to_training
+from loguru import logger
+from flask import Flask , jsonify
+
+import error_updation
+from error_updation import *
+
+
+app = Flask(__name__)
+
+config = configparser.ConfigParser()
+config.read('config.ini')
+
+log_location = config['CLASSIFIER']['LOGGER_LOC']
+loginfo_filename = config['CLASSIFIER']['LOGINFO_FILENAME']
+logdebug_filename = config['CLASSIFIER']['LOGDEBUG_FILENAME']
+
+
+# logger.add(loginfo_filename, format="{time:YYYY-MM-DD at HH:mm:ss} | {level} | {message}", backtrace=True ,  level='INFO' , rotation="00:00", compression="zip",enqueue=True,diagnose=True  )
+# logger.add(logdebug_filename, format="{time:YYYY-MM-DD at HH:mm:ss} | {level} | {message}", backtrace=True ,  level='DEBUG', rotation="00:00", compression="zip",enqueue=True,diagnose=True  )
+
+
+path_separator = config['CLASSIFIER']['PATH_SEP']
+training_location = config['CLASSIFIER']['TRAINING_DATASET_LOCATION']
+model_location = config['CLASSIFIER']['MODEL_SAVE_LOCATION']
+vectorizer_model_pkl = config['CLASSIFIER']['VEC_MODEL_PKL_NAME']
+classification_model_pkl = config['CLASSIFIER']['CLASS_PKL_NAME']
+model_backup_loc = config['CLASSIFIER']['MODEL_BACKUP_LOCATION']
+
+system_config_all = config['CLASSIFIER']['DISCOVERY_API_HOST']
+training_status_complete_status = config['CLASSIFIER']['TRAINING_COMPLETE_STATUS']
+training_port = int(config['CLASSIFIER']['TRAINING_PORT'])
+training_doc_max = int(config['CLASSIFIER']['TRAINING_DOC_MAX'])
+
+host = config['CLASSIFIER']['CLASSIFIER_HOST']
+
+from time import gmtime, strftime
+sysdate = strftime("%Y_%m_%d_%H_%M_%S", gmtime())
+
+model_path = os.path.normpath(os.path.join(model_location, classification_model_pkl))
+vec_model_path = os.path.normpath(os.path.join(model_location, vectorizer_model_pkl))
+
+
+def address_to_pid(ip_address, ip_port):
+    try:
+     
+        import psutil
+        import os
+        import signal
+        from psutil import process_iter
+        from signal import SIGTERM
+        
+
+        possible_pids = set()
+        [x.pid for x in psutil.net_connections() if x.laddr == (
+            str(ip_address), ip_port) and x.pid not in possible_pids\
+                    and possible_pids.add(x.pid)]
+        if len(possible_pids) < 1:
+            return 'Nothing'
+        return possible_pids.pop()
+    except Exception as e:
+        logger.error("error occurred in getting the pid {}", e)
+
+
+def tokenize_stem(text):
+
+    logger.info("\n\n tokenize_stem :")
+    tokens = [word for sent in nltk.sent_tokenize(text) for word in nltk.word_tokenize(sent)]
+    filtered_tokens = []
+    # filter out any tokens not containing letters (e.g., numeric tokens, raw punctuation)
+    for token in tokens:
+        if re.search('[a-zA-Z]', token):
+            filtered_tokens.append(token)
+    stems = [stemmer.stem(t) for t in filtered_tokens]
+    return stems
+
+
+from nltk.stem.snowball import SnowballStemmer
+stemmer = SnowballStemmer("english")
+
+
+def get_template_info():
+    # Create a new diretory  TRAINING DATASET
+    if not os.path.exists(training_location):
+        os.makedirs(training_location, mode=0o777, exist_ok=False)
+    import requests as req
+    resp = req.request(method='GET', url=config['CLASSIFIER']['get_template_request'])
+    json_data = resp.json()
+    try:
+        if resp and resp.status_code == 200 and json_data is not None and len(json_data) > 0:
+            logging.info("json_data: {}", json_data)
+            for row in json_data:
+                if row['IsActive']:
+                    os.makedirs(os.path.normpath(os.path.join(training_location , row['Name'])), mode=0o777, exist_ok=False)
+    except Exception as err:
+        error_updation.exception_log(err, "get_template_info", str(''))
+        #logging.info("get_template_info", err)
+
+
+def training_dataset():
+    # Load the document from source path and converted into dataset
+    try:
+        logger.debug("\n\n training_dataset : {}", tokenize_stem)
+        templates = []
+        training_dataset = {}
+        from os import listdir
+        # read the templates
+        for name in os.listdir(training_location):
+            templates.append(name)
+        # Load the data
+        logger.info('\n Loading the dataset...\n')
+        logger.info('\n templates : ',templates)
+        from sklearn import datasets
+        training_dataset = sklearn.datasets.load_files(training_location,
+                                                       description=None, categories=templates, load_content=True,
+                                                       encoding='ISO-8859-1', shuffle=False, random_state=42)
+    except Exception as err:
+        error_updation.exception_log(err, "error in training_dataset", str(''))
+        #print("training_dataset", err)
+    return training_dataset
+    
+    
+def training_status_model():
+    import requests as req
+    import json
+    add_group_template = urllib.parse.urljoin(system_config_all, training_status_complete_status)
+    print(add_group_template)
+    group_response_error_data = req.request(method="GET", url=add_group_template)
+    return group_response_error_data.json()
+    
+
+@app.route('/'+config['CLASSIFIER']['TRAINING_URL'] )
+def call_training():
+    return jsonify(build_model())
+
+
+def build_model():
+    try :
+        import json
+        training_dict = {}
+        logger.info("\n\n >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< ")
+        group_to_training.move_group()
+        import shutil
+        import gzip
+        import subprocess
+        bkup_file_name = 'bkup_'+sysdate
+        if os.path.exists(model_path):
+            os.rename(model_path,os.path.normpath(os.path.join(model_backup_loc,bkup_file_name+"_"+classification_model_pkl)))
+        if os.path.exists(vec_model_path):
+            os.rename(vec_model_path,
+                      os.path.normpath(os.path.join(model_backup_loc, bkup_file_name+"_"+vectorizer_model_pkl)))
+        logger.info("\n\n training_dataset - > Model Building ")
+        training_data = training_dataset()
+        logger.info('\n Feature Extraction...\n')
+        logger.info(" DATASET LENGTH : {}", len(training_data.data))
+        #tfidf_vec_model = TfidfVectorizer(tokenizer=tokenize_stem,stop_words='english')
+        tfidf_vec_model = TfidfVectorizer(sublinear_tf=True, min_df=5, norm='l2', encoding='latin-1', ngram_range=(1, 2), tokenizer=tokenize_stem,  stop_words='english')
+        features = tfidf_vec_model.fit_transform(training_data.data,y=None).toarray()
+        labels = training_data.target
+        features.shape
+        logger.debug("features : {}", features.shape)
+        #print("features :",features.shape)
+        X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.33, random_state=0)
+        model = LogisticRegression(random_state=0,n_jobs=-1,solver='saga')
+        model.fit(X_train, y_train)
+        pickle_save(tfidf_vec_model , model_location, vectorizer_model_pkl)
+        pickle_save(model, model_location, classification_model_pkl)
+        logger.debug(" \n\n pickle_saved :{}", classification_model_pkl)
+        y_pred_proba = model.predict_proba(X_test)
+        y_pred = model.predict(X_test)
+        logger.debug(" \n\n y_pred :{} ",y_pred)
+        conf_mat = confusion_matrix(y_test, y_pred)
+        logger.debug("\n\n conf_mat: {}", conf_mat)
+        logger.info("\n\n\ Model Build and Training's are completed")
+        cross_validation(features=features,labels=labels,cv_no=4)
+        logger.info(" Model location: model_path ->", model_path, "vec_model_path:", vec_model_path)
+        training_dict['training_resp'] = ''
+        if os.path.exists(vec_model_path) and os.path.exists(model_path):
+            training_dict['training_resp'] =  "Model build process is successfully completed "
+            group_to_training.update_groupto_category()
+        else:
+            training_dict['training_resp'] =  "Failed to  Build Model"
+        training_status_response = training_status_model()
+        logger.info(training_status_response)
+        pid_opened = address_to_pid(host, int(training_port))
+        logger.info(pid_opened)
+        os.kill(pid_opened, signal.SIGTERM)
+    except Exception as err:
+       # training_dict['error_msg'] =  "Failed to  Build Model - build_model() :"
+        error_updation.exception_log(err, "Failed to  complete  the process in model building :", str(''))
+        pid_opened = address_to_pid(host,int(training_port))
+        logger.info(pid_opened)
+        os.kill(pid_opened, signal.SIGTERM)
+
+    return json.dumps(training_dict)
+
+
+def pickle_save(model, path, filename):
+    try :
+        import pickle
+        model_name = os.path.normpath(os.path.join(path ,filename))
+        with open(model_name, 'wb') as f:
+            pickle.dump(model, f)
+            logger.debug("\n\n Pickled dumped : {}", path)
+        if os.path.exists(model_name) :
+            return model_name
+        else:
+            raise WindowsError(" Model build process is failed")
+    except Exception as error :
+        error_updation.exception_log(error, "Model build process is failed", str(filename) )
+        #print(" Model build process is failed",str(error))
+
+
+def cross_validation(features,labels ,cv_no=5):
+    from sklearn.model_selection import cross_val_score
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.ensemble import RandomForestClassifier
+    from sklearn.naive_bayes import MultinomialNB
+    models = [
+        LogisticRegression(random_state=0,n_jobs= -1,solver='saga'),
+        RandomForestClassifier(n_estimators=200, max_depth=3, random_state=0),
+        MultinomialNB()
+    ]
+    cross_validation_df = pd.DataFrame(index=range(cv_no * len(models)))
+    entries = []
+    for model in models:
+        model_name = model.__class__.__name__
+        accuracies = cross_val_score(model, features, labels, scoring='accuracy', cv=cv_no)
+        for fold_idx, accuracy in enumerate(accuracies):
+            entries.append((model_name, fold_idx, accuracy))
+    cross_validation_df = pd.DataFrame(entries, columns=['model_name', 'fold_idx', 'accuracy'])
+    logger.debug("\n\n Accuracy mean: {}", cross_validation_df.groupby('model_name').accuracy.mean())
+
+
+if __name__ == "__main__":
+    # #training_dataset()
+    # print(build_model())
+    app.run(host=config['CLASSIFIER']['CLASSIFIER_HOST'], port=config['CLASSIFIER']['TRAINING_PORT'], debug=False)

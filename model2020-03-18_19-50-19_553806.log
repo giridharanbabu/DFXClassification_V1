@@ -1,0 +1,4444 @@
+2020-03-18 19:50:29.668 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:50:29.943 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:50:29.943 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:50:29.944 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:50:29.944 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:50:29.953 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:50:29.953 | INFO     | train:build_model:183 -  DATASET LENGTH : 40
+2020-03-18 19:50:29.956 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.965 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.965 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.966 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.966 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.967 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.967 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.967 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.968 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.968 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.968 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.969 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.969 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.969 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.970 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.970 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.970 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.971 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.971 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.971 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.972 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.972 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.973 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.973 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.973 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.974 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.974 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.975 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.975 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.975 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.976 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.976 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.976 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.977 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.977 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.977 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.978 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.978 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.978 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.979 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.979 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.980 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.980 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.980 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.981 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.981 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.982 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.982 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.982 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.983 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.983 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.983 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.984 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.984 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.984 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.985 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.985 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.986 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.986 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.987 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.987 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.987 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.988 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.988 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.989 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.989 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.990 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.990 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.990 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.991 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.991 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.992 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.992 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.993 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.993 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.994 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.994 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.995 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.995 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.995 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.996 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.996 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.996 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.997 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.997 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.998 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.998 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.999 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.999 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:29.999 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.000 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.000 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.001 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.001 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.001 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.002 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.002 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.003 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.003 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.004 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.004 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.005 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.005 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.006 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.006 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.007 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.007 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.008 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.008 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.009 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.009 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.010 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.010 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.011 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.011 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.012 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.012 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.012 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.013 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.013 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.014 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.014 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.014 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.015 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.015 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.016 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.016 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.016 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.017 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.017 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.018 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.019 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.019 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.020 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.020 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.021 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.021 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.022 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.022 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.022 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.023 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.023 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.024 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.024 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.024 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.025 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.025 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.026 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.026 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.027 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.027 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.028 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.029 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.030 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.030 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.031 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.032 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.033 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.033 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.034 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.034 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.035 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.035 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.036 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.037 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.037 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.038 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.039 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.039 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.040 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.040 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.041 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.042 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.042 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.043 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.043 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.044 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.044 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.045 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.045 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.046 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.047 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.047 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.048 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.048 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.048 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.049 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.049 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.050 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.050 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.050 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.051 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.051 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.052 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.052 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.052 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.053 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.053 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.054 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.054 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.055 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.055 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.056 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.056 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.057 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.058 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.058 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.059 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.060 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.060 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.061 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.061 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.062 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.062 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.063 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.063 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.064 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.064 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.065 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.065 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.065 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.066 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.066 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.067 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.067 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.068 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.068 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.068 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.069 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.069 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.070 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.070 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.070 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.071 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.071 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.071 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.072 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.072 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.072 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.073 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.073 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.074 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.074 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.074 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.075 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.075 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.075 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.076 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.076 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.076 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.077 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.077 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.077 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.078 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.078 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.078 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.079 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.079 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.080 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.080 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.080 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.081 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.082 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.082 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.082 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.083 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.083 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.084 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.084 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.084 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.085 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.085 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.085 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.086 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.086 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.087 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.087 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.087 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.088 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.088 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.089 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.089 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.090 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.090 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.090 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.091 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.091 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.092 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.092 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.093 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.093 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.093 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.094 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.094 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.095 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.095 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.095 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.096 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.096 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.096 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.097 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.097 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.097 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.098 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.098 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.099 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.099 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.099 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.100 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.100 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.101 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.101 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.102 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.102 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.103 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.103 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.104 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.104 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.106 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.118 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.128 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.139 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.149 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.162 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.172 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.182 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.192 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.202 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.211 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.219 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.228 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.243 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.250 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.280 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:50:30.332 | DEBUG    | train:build_model:195 - features : (40, 456)
+2020-03-18 19:50:35.169 | DEBUG    | train:cross_validation:147 - 
+
+ Accuracy mean: model_name
+LogisticRegression        1.00
+MultinomialNB             1.00
+RandomForestClassifier    0.95
+Name: accuracy, dtype: float64
+2020-03-18 19:50:35.277 | DEBUG    | train:build_model:203 -  
+
+ pickle_saved :model.pkl
+2020-03-18 19:50:35.277 | DEBUG    | train:build_model:206 -  
+
+ y_pred :[1 1 1 0 0 0 1 0 0 1 1 1 1 0] 
+2020-03-18 19:50:35.281 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:50:35.284 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:50:35.286 | DEBUG    | train:build_model:210 - 
+
+ conf_mat: [[6 0]
+ [0 8]]
+2020-03-18 19:50:35.286 | INFO     | train:build_model:211 -  Model location: model_path ->
+2020-03-18 19:51:17.607 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:51:17.910 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:51:17.911 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:51:17.911 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:51:17.912 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:51:17.917 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:51:17.918 | INFO     | train:build_model:183 -  DATASET LENGTH : 40
+2020-03-18 19:51:17.919 | INFO     | train:build_model:237 - [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\gdnau\\Giri\\dfx\\model\\model.pkl' -> 'C:\\Users\\gdnau\\Giri\\dfx\\model_backup\\bkup_2020_03_18_14_20_19_model.pkl'
+2020-03-18 19:51:45.450 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:51:45.911 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:51:45.911 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:51:45.911 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:51:45.912 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:51:45.918 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:51:45.918 | INFO     | train:build_model:183 -  DATASET LENGTH : 40
+2020-03-18 19:51:45.919 | INFO     | train:build_model:237 - [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\gdnau\\Giri\\dfx\\model\\model.pkl' -> 'C:\\Users\\gdnau\\Giri\\dfx\\model_backup\\bkup_2020_03_18_14_20_19_model.pkl'
+2020-03-18 19:52:19.897 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:52:20.225 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:52:20.225 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:52:20.226 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:52:20.226 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:52:20.233 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:52:20.233 | INFO     | train:build_model:183 -  DATASET LENGTH : 40
+2020-03-18 19:52:20.234 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.234 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.236 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.236 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.236 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.237 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.237 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.238 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.238 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.238 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.240 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.240 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.241 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.241 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.242 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.242 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.243 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.243 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.244 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.244 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.246 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.246 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.247 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.247 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.247 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.248 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.248 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.250 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.250 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.251 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.251 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.251 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.253 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.253 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.253 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.254 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.254 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.255 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.255 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.255 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.256 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.256 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.257 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.257 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.259 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.259 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.260 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.260 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.261 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.261 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.263 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.263 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.263 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.264 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.264 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.265 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.265 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.267 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.267 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.269 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.269 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.269 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.271 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.271 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.274 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.274 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.275 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.278 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.278 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.278 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.279 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.284 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.284 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.284 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.287 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.287 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.287 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.289 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.289 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.289 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.291 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.291 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.291 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.296 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.296 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.296 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.301 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.301 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.301 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.303 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.303 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.303 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.341 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.341 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.341 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.350 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.359 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.367 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.375 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.382 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.390 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.398 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.405 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.413 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.422 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.431 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.443 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.452 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.460 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.468 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.476 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.485 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.492 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.501 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.509 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.511 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.513 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.516 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.519 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.521 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.524 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.527 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.528 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.530 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.532 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.534 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.536 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.537 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.539 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.541 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.543 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.545 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.547 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.548 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:52:20.555 | DEBUG    | train:build_model:195 - features : (40, 456)
+2020-03-18 19:52:23.208 | DEBUG    | train:cross_validation:147 - 
+
+ Accuracy mean: model_name
+LogisticRegression        1.00
+MultinomialNB             1.00
+RandomForestClassifier    0.95
+Name: accuracy, dtype: float64
+2020-03-18 19:52:23.314 | DEBUG    | train:build_model:203 -  
+
+ pickle_saved :model.pkl
+2020-03-18 19:52:23.315 | DEBUG    | train:build_model:206 -  
+
+ y_pred :[1 1 1 0 0 0 1 0 0 1 1 1 1 0] 
+2020-03-18 19:52:23.318 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:52:23.320 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:52:23.322 | DEBUG    | train:build_model:210 - 
+
+ conf_mat: [[6 0]
+ [0 8]]
+2020-03-18 19:52:23.323 | INFO     | train:build_model:211 -  Model location: model_path ->
+2020-03-18 19:52:23.755 | INFO     | train:build_model:237 - cursor already closed
+2020-03-18 19:53:57.879 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:53:58.336 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:53:58.337 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:53:58.337 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:53:58.338 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:53:58.348 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:53:58.349 | INFO     | train:build_model:183 -  DATASET LENGTH : 60
+2020-03-18 19:53:58.350 | INFO     | train:build_model:237 - [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\gdnau\\Giri\\dfx\\model\\model.pkl' -> 'C:\\Users\\gdnau\\Giri\\dfx\\model_backup\\bkup_2020_03_18_14_20_19_model.pkl'
+2020-03-18 19:54:45.608 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:54:46.214 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:54:46.215 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:54:46.215 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:54:46.215 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:54:46.218 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:54:46.218 | INFO     | train:build_model:183 -  DATASET LENGTH : 20
+2020-03-18 19:54:46.218 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.219 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.219 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.220 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.220 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.220 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.221 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.221 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.222 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.222 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.222 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.223 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.223 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.224 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.224 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.224 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.225 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.225 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.225 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.226 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.226 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.227 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.227 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.227 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.228 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.228 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.229 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.229 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.230 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.230 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.230 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.231 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.231 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.231 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.232 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.232 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.232 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.233 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.233 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.233 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.234 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.234 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.235 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.236 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.236 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.237 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.237 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.238 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.238 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.239 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.240 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.240 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.241 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.241 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.242 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.242 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.242 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.243 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.243 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.244 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.244 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.245 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.246 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.246 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.247 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.247 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.248 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.248 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.249 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.250 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.250 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.251 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.252 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.253 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.253 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.254 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.254 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.254 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.255 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.255 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.256 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.256 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.256 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.257 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.257 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.258 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.259 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.259 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.260 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.260 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.261 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.261 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.262 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.263 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.263 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.264 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.264 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.265 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.265 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.265 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.266 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.267 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.267 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.267 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.268 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.269 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.269 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.270 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.271 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.271 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.271 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.272 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.273 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.274 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.274 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.275 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.275 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.275 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.276 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.277 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.278 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.279 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.279 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.280 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.280 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.281 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.282 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.283 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.284 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.284 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.285 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.286 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.287 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.288 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.289 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.289 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.290 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.291 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.291 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.292 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.293 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.294 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.295 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.296 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.296 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.297 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.298 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.299 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.300 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.301 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.301 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.302 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.303 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.303 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.304 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.305 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.306 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.307 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.308 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.309 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.310 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.311 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.312 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.313 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.314 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.315 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.316 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.317 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.318 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.319 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.320 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.321 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.322 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.323 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.324 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.325 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.326 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.327 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.328 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.329 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.330 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.331 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.332 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.333 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.334 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.335 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.336 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.337 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.338 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.339 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.340 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.342 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.344 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.345 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.347 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.349 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.351 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.353 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.355 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.356 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.357 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.358 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.359 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.361 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.362 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.364 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.366 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.368 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.369 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.370 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:54:46.374 | DEBUG    | train:build_model:195 - features : (20, 40)
+2020-03-18 19:54:46.377 | INFO     | train:build_model:237 - This solver needs samples of at least 2 classes in the data, but the data contains only one class: 0
+2020-03-18 19:55:44.129 | INFO     | train:build_model:173 - 
+
+ >>>>>>>>>>>>>>>>>>>> Move Group to Training In Progress <<<<<<<<<<<<<<<<<<<<<< 
+2020-03-18 19:55:44.539 | INFO     | train:build_model:180 - 
+
+ training_dataset - > Model Building 
+2020-03-18 19:55:44.539 | DEBUG    | train:training_dataset:107 - 
+
+ training_dataset : <function tokenize_stem at 0x00000213E939B950>
+2020-03-18 19:55:44.539 | INFO     | train:training_dataset:115 - 
+ Loading the dataset...
+
+2020-03-18 19:55:44.540 | INFO     | train:training_dataset:116 - 
+ templates : 
+2020-03-18 19:55:44.545 | INFO     | train:build_model:182 - 
+ Feature Extraction...
+
+2020-03-18 19:55:44.545 | INFO     | train:build_model:183 -  DATASET LENGTH : 40
+2020-03-18 19:55:44.546 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.546 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.547 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.547 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.547 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.547 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.548 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.548 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.548 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.549 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.549 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.549 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.549 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.550 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.550 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.550 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.551 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.551 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.551 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.552 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.552 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.552 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.553 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.553 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.554 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.554 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.554 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.555 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.555 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.555 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.556 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.556 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.556 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.556 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.557 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.557 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.557 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.558 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.558 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.558 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.559 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.559 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.559 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.560 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.560 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.560 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.560 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.561 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.561 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.561 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.562 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.562 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.562 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.563 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.563 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.563 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.564 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.564 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.564 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.564 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.565 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.565 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.565 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.566 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.566 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.566 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.566 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.567 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.567 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.567 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.567 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.568 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.568 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.568 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.569 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.569 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.569 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.570 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.570 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.570 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.570 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.571 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.571 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.571 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.572 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.572 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.572 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.572 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.573 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.573 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.573 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.574 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.574 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.574 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.575 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.575 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.575 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.576 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.576 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.576 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.577 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.577 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.577 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.577 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.578 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.578 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.578 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.579 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.579 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.579 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.580 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.580 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.580 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.581 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.581 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.581 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.581 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.582 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.582 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.582 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.583 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.583 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.583 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.583 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.584 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.584 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.584 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.584 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.585 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.585 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.585 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.586 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.586 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.586 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.587 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.587 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.587 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.587 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.588 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.588 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.588 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.589 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.589 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.589 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.589 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.590 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.590 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.590 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.591 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.591 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.591 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.592 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.592 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.592 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.593 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.593 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.593 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.593 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.594 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.594 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.594 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.595 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.595 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.595 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.596 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.596 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.596 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.597 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.597 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.597 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.597 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.598 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.598 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.598 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.599 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.599 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.599 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.599 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.600 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.600 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.600 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.601 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.601 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.601 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.601 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.602 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.602 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.602 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.603 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.603 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.603 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.604 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.604 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.604 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.604 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.605 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.605 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.605 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.605 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.606 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.606 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.606 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.607 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.607 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.607 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.607 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.608 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.608 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.608 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.609 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.609 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.609 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.610 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.610 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.610 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.611 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.611 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.611 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.612 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.612 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.612 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.613 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.613 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.613 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.614 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.614 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.614 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.614 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.615 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.615 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.615 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.616 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.616 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.616 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.616 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.617 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.617 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.617 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.618 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.618 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.618 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.618 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.619 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.619 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.619 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.620 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.620 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.620 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.620 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.621 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.621 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.621 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.622 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.622 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.622 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.622 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.623 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.623 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.623 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.624 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.624 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.624 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.625 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.625 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.625 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.626 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.626 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.627 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.627 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.628 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.628 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.629 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.629 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.630 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.630 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.630 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.631 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.631 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.632 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.633 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.633 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.634 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.634 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.635 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.635 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.636 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.636 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.637 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.637 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.638 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.638 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.639 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.639 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.640 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.640 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.641 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.641 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.642 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.642 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.643 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.643 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.644 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.644 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.645 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.645 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.646 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.646 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.647 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.647 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.648 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.648 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.649 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.649 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.650 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.650 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.651 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.651 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.651 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.652 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.666 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.676 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.686 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.697 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.705 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.714 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.723 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.733 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.745 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.752 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.760 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.769 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.779 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.788 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.797 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.807 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.816 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.824 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.832 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.840 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.841 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.843 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.844 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.846 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.848 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.849 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.852 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.854 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.855 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.857 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.858 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.859 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.861 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.862 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.864 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.866 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.868 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.869 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.870 | INFO     | train:tokenize_stem:48 - 
+
+ tokenize_stem :
+2020-03-18 19:55:44.878 | DEBUG    | train:build_model:195 - features : (40, 308)
+2020-03-18 19:55:46.618 | DEBUG    | train:cross_validation:147 - 
+
+ Accuracy mean: model_name
+LogisticRegression        1.000
+MultinomialNB             0.925
+RandomForestClassifier    0.950
+Name: accuracy, dtype: float64
+2020-03-18 19:55:46.726 | DEBUG    | train:build_model:203 -  
+
+ pickle_saved :model.pkl
+2020-03-18 19:55:46.727 | DEBUG    | train:build_model:206 -  
+
+ y_pred :[1 1 1 0 0 0 1 0 0 1 1 1 1 0] 
+2020-03-18 19:55:46.731 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:55:46.734 | DEBUG    | train:pickle_save:157 - 
+
+ Pickled dumped : C:\Users\gdnau\Giri\dfx\model
+2020-03-18 19:55:46.736 | DEBUG    | train:build_model:210 - 
+
+ conf_mat: [[6 0]
+ [0 8]]
+2020-03-18 19:55:46.737 | INFO     | train:build_model:211 -  Model location: model_path ->
+2020-03-18 19:55:46.941 | INFO     | train:build_model:237 - cursor already closed

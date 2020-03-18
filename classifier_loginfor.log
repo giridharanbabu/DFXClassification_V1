@@ -1,0 +1,1436 @@
+2020-03-13T15:29:49.058483+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T15:29:49.069480+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T15:29:49.071479+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T15:30:21.441484+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T15:30:21.443482+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T15:30:21.445483+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T15:30:28.109450+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T15:30:28.433479+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\8ZttHAs0_bm.jpg_2020-03-13 15_30_28.108450.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\8ZttHAs0_bm.jpg_2020-03-13 15_30_28.108450.txt'}
+2020-03-13T15:30:28.434477+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\8ZttHAs0_bm.jpg_2020-03-13 15_30_28.108450.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\8ZttHAs0_bm.jpg_2020-03-13 15_30_28.108450.txt
+2020-03-13T15:30:52.259093+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T15:30:52.260095+0530 TfidfModel(num_docs=5, num_nnz=75) | INFO | TfidfModel(num_docs=5, num_nnz=75)
+2020-03-13T15:30:52.264095+0530 sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T15:31:12.894880+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T15:31:12.897881+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T15:31:12.898882+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T15:31:19.347910+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T15:31:19.576928+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt'}
+2020-03-13T15:31:19.576928+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt
+2020-03-13T15:31:19.587928+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T15:31:19.587928+0530 TfidfModel(num_docs=5, num_nnz=75) | INFO | TfidfModel(num_docs=5, num_nnz=75)
+2020-03-13T15:31:19.589928+0530 sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T15:31:23.027196+0530 58 | INFO | 58
+2020-03-13T15:31:23.029195+0530 
+
+ Group No : 58 | INFO | 
+
+ Group No : 58
+2020-03-13T15:31:23.030197+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\58\58~~__~~8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\58\58~~__~~8ZttHAs0_bm.jpg_2020-03-13 15_31_19.347910.txt
+2020-03-13T15:31:23.285216+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T15:31:23.359222+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt'}
+2020-03-13T15:31:23.360222+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt
+2020-03-13T15:31:23.368221+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T15:31:23.369222+0530 TfidfModel(num_docs=6, num_nnz=151) | INFO | TfidfModel(num_docs=6, num_nnz=151)
+2020-03-13T15:31:23.373222+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T15:31:26.887828+0530 59 | INFO | 59
+2020-03-13T15:31:26.889827+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T15:31:26.890828+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~UhjWntIW_cnc.jpg_2020-03-13 15_31_23.285216.txt
+2020-03-13T15:31:27.088844+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T15:31:27.160850+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\0v0BYv1b.jpg_2020-03-13 15_31_27.088844.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\0v0BYv1b.jpg_2020-03-13 15_31_27.088844.txt'}
+2020-03-13T15:31:27.160850+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\0v0BYv1b.jpg_2020-03-13 15_31_27.088844.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\0v0BYv1b.jpg_2020-03-13 15_31_27.088844.txt
+2020-03-13T15:31:27.168853+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T15:31:27.170850+0530 TfidfModel(num_docs=7, num_nnz=184) | INFO | TfidfModel(num_docs=7, num_nnz=184)
+2020-03-13T15:31:27.174851+0530 sims: Similarity index with 7 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 7 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:07.592379+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T16:42:07.595379+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T16:42:07.596378+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T16:42:15.557998+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:15.770018+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt'}
+2020-03-13T16:42:15.771017+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt
+2020-03-13T16:42:15.786016+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:15.787016+0530 TfidfModel(num_docs=7, num_nnz=184) | INFO | TfidfModel(num_docs=7, num_nnz=184)
+2020-03-13T16:42:15.791018+0530 sims: Similarity index with 7 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 7 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:19.293326+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:42:19.294325+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~0v0BYv1b.jpg_2020-03-13 16_42_15.557998.txt
+2020-03-13T16:42:19.562913+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:19.640917+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\LG6ENKsv.png_2020-03-13 16_42_19.562913.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\LG6ENKsv.png_2020-03-13 16_42_19.562913.txt'}
+2020-03-13T16:42:19.640917+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\LG6ENKsv.png_2020-03-13 16_42_19.562913.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\LG6ENKsv.png_2020-03-13 16_42_19.562913.txt
+2020-03-13T16:42:19.650917+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:19.651919+0530 TfidfModel(num_docs=8, num_nnz=218) | INFO | TfidfModel(num_docs=8, num_nnz=218)
+2020-03-13T16:42:19.656919+0530 sims: Similarity index with 8 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 8 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:23.087184+0530 82 | INFO | 82
+2020-03-13T16:42:23.089185+0530 
+
+ Group No : 82 | INFO | 
+
+ Group No : 82
+2020-03-13T16:42:23.090184+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\82\82~~__~~LG6ENKsv.png_2020-03-13 16_42_19.562913.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\82\82~~__~~LG6ENKsv.png_2020-03-13 16_42_19.562913.txt
+2020-03-13T16:42:23.323201+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:23.390207+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt'}
+2020-03-13T16:42:23.391207+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt
+2020-03-13T16:42:23.399207+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:23.400207+0530 TfidfModel(num_docs=9, num_nnz=257) | INFO | TfidfModel(num_docs=9, num_nnz=257)
+2020-03-13T16:42:23.404208+0530 sims: Similarity index with 9 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 9 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:27.026492+0530 83 | INFO | 83
+2020-03-13T16:42:27.029493+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:42:27.029493+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~tvhGuWyL_invoice.docx_2020-03-13 16_42_23.323201.txt
+2020-03-13T16:42:27.315513+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:27.377517+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt'}
+2020-03-13T16:42:27.378517+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt
+2020-03-13T16:42:27.393518+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:27.395521+0530 TfidfModel(num_docs=10, num_nnz=364) | INFO | TfidfModel(num_docs=10, num_nnz=364)
+2020-03-13T16:42:27.402520+0530 sims: Similarity index with 10 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 10 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:30.834817+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:42:30.835818+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~VWipsKSv_invoice.docx_2020-03-13 16_42_27.315513.txt
+2020-03-13T16:42:30.990830+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:31.055835+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt'}
+2020-03-13T16:42:31.056842+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt
+2020-03-13T16:42:31.070835+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:31.071835+0530 TfidfModel(num_docs=11, num_nnz=475) | INFO | TfidfModel(num_docs=11, num_nnz=475)
+2020-03-13T16:42:31.081843+0530 sims: Similarity index with 11 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 11 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:34.551106+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:42:34.552107+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~QlPJ1qRC_invoice.docx_2020-03-13 16_42_30.990830.txt
+2020-03-13T16:42:34.728121+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:34.825181+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\6_2020-03-13 16_42_34.728121.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\6_2020-03-13 16_42_34.728121.txt'}
+2020-03-13T16:42:34.825181+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\6_2020-03-13 16_42_34.728121.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\6_2020-03-13 16_42_34.728121.txt
+2020-03-13T16:42:34.848182+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:34.850183+0530 TfidfModel(num_docs=12, num_nnz=583) | INFO | TfidfModel(num_docs=12, num_nnz=583)
+2020-03-13T16:42:34.866184+0530 sims: Similarity index with 12 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 12 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:38.447033+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:42:38.447033+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~6_2020-03-13 16_42_34.728121.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~6_2020-03-13 16_42_34.728121.txt
+2020-03-13T16:42:38.608045+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:38.669050+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt'}
+2020-03-13T16:42:38.670053+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt
+2020-03-13T16:42:38.696057+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:38.699056+0530 TfidfModel(num_docs=13, num_nnz=613) | INFO | TfidfModel(num_docs=13, num_nnz=613)
+2020-03-13T16:42:38.712056+0530 sims: Similarity index with 13 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 13 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:42.162834+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:42:42.163835+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~5kXVhbk2.jpg_2020-03-13 16_42_38.608045.txt
+2020-03-13T16:42:42.359848+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:42.426854+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5530pq4t.png_2020-03-13 16_42_42.359848.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5530pq4t.png_2020-03-13 16_42_42.359848.txt'}
+2020-03-13T16:42:42.426854+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5530pq4t.png_2020-03-13 16_42_42.359848.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5530pq4t.png_2020-03-13 16_42_42.359848.txt
+2020-03-13T16:42:42.447857+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:42.449858+0530 TfidfModel(num_docs=14, num_nnz=646) | INFO | TfidfModel(num_docs=14, num_nnz=646)
+2020-03-13T16:42:42.459856+0530 sims: Similarity index with 14 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 14 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:45.927148+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:42:45.928148+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~5530pq4t.png_2020-03-13 16_42_42.359848.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~5530pq4t.png_2020-03-13 16_42_42.359848.txt
+2020-03-13T16:42:46.106162+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:46.205171+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt'}
+2020-03-13T16:42:46.205171+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt
+2020-03-13T16:42:46.235173+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:46.237175+0530 TfidfModel(num_docs=15, num_nnz=673) | INFO | TfidfModel(num_docs=15, num_nnz=673)
+2020-03-13T16:42:46.252173+0530 sims: Similarity index with 15 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 15 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:49.760482+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:42:49.761482+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~YJ9eTYj7_invoice.docx_2020-03-13 16_42_46.106162.txt
+2020-03-13T16:42:49.953495+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:50.023506+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt'}
+2020-03-13T16:42:50.023506+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt
+2020-03-13T16:42:50.051505+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:50.054504+0530 TfidfModel(num_docs=16, num_nnz=778) | INFO | TfidfModel(num_docs=16, num_nnz=778)
+2020-03-13T16:42:50.068506+0530 sims: Similarity index with 16 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 16 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:53.683983+0530 84 | INFO | 84
+2020-03-13T16:42:53.685983+0530 
+
+ Group No : 84 | INFO | 
+
+ Group No : 84
+2020-03-13T16:42:53.685983+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\84\84~~__~~rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\84\84~~__~~rIkaJJ7j.jpg_2020-03-13 16_42_49.953495.txt
+2020-03-13T16:42:53.848996+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:53.924001+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt'}
+2020-03-13T16:42:53.925002+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt
+2020-03-13T16:42:53.952001+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:53.954002+0530 TfidfModel(num_docs=17, num_nnz=832) | INFO | TfidfModel(num_docs=17, num_nnz=832)
+2020-03-13T16:42:53.965003+0530 sims: Similarity index with 17 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 17 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:42:57.478813+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:42:57.479813+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~yI9m10eX_invoice.docx_2020-03-13 16_42_53.848996.txt
+2020-03-13T16:42:57.634826+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:42:57.698236+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt'}
+2020-03-13T16:42:57.698830+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt
+2020-03-13T16:42:57.725832+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:42:57.727831+0530 TfidfModel(num_docs=18, num_nnz=936) | INFO | TfidfModel(num_docs=18, num_nnz=936)
+2020-03-13T16:42:57.743834+0530 sims: Similarity index with 18 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 18 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:01.318613+0530 
+
+ Group No : 83 | INFO | 
+
+ Group No : 83
+2020-03-13T16:43:01.319612+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\83\83~~__~~wulJtl8u_invoice.docx_2020-03-13 16_42_57.634826.txt
+2020-03-13T16:43:01.485627+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:01.566634+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt'}
+2020-03-13T16:43:01.568647+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt
+2020-03-13T16:43:01.602636+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:01.604636+0530 TfidfModel(num_docs=19, num_nnz=1045) | INFO | TfidfModel(num_docs=19, num_nnz=1045)
+2020-03-13T16:43:01.625642+0530 sims: Similarity index with 19 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 19 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:05.119968+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:05.120967+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~zXwpcyON_cnc.jpg_2020-03-13 16_43_01.485627.txt
+2020-03-13T16:43:05.269978+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:05.328983+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt'}
+2020-03-13T16:43:05.329986+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt
+2020-03-13T16:43:05.368988+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:05.371991+0530 TfidfModel(num_docs=20, num_nnz=1084) | INFO | TfidfModel(num_docs=20, num_nnz=1084)
+2020-03-13T16:43:05.397991+0530 sims: Similarity index with 20 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 20 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:08.993264+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:08.994264+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~p12dXfPj_cnc.jpg_2020-03-13 16_43_05.269978.txt
+2020-03-13T16:43:09.297288+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:09.358295+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt'}
+2020-03-13T16:43:09.359294+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt
+2020-03-13T16:43:09.387294+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:09.389295+0530 TfidfModel(num_docs=21, num_nnz=1105) | INFO | TfidfModel(num_docs=21, num_nnz=1105)
+2020-03-13T16:43:09.403295+0530 sims: Similarity index with 21 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 21 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:12.972727+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:12.972727+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~MBv1A70s_cnc.jpg_2020-03-13 16_43_09.297288.txt
+2020-03-13T16:43:13.123737+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:13.178742+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt'}
+2020-03-13T16:43:13.178742+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt
+2020-03-13T16:43:13.214743+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:13.219745+0530 TfidfModel(num_docs=22, num_nnz=1133) | INFO | TfidfModel(num_docs=22, num_nnz=1133)
+2020-03-13T16:43:13.238746+0530 sims: Similarity index with 22 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 22 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:16.754606+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:16.755607+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~kUH3zAlZ_cnc.jpg_2020-03-13 16_43_13.123737.txt
+2020-03-13T16:43:17.035629+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:17.101631+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt'}
+2020-03-13T16:43:17.101631+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt
+2020-03-13T16:43:17.133633+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:17.135633+0530 TfidfModel(num_docs=23, num_nnz=1161) | INFO | TfidfModel(num_docs=23, num_nnz=1161)
+2020-03-13T16:43:17.149634+0530 sims: Similarity index with 23 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 23 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:20.638447+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:20.639446+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~32Gkxb88_cnc.jpg_2020-03-13 16_43_17.035629.txt
+2020-03-13T16:43:20.877468+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:20.981474+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt'}
+2020-03-13T16:43:20.981474+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt
+2020-03-13T16:43:21.027477+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:21.029477+0530 TfidfModel(num_docs=24, num_nnz=1186) | INFO | TfidfModel(num_docs=24, num_nnz=1186)
+2020-03-13T16:43:21.052478+0530 sims: Similarity index with 24 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 24 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:24.562949+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:24.563950+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~97Nf0ZDh_cnc.jpg_2020-03-13 16_43_20.877468.txt
+2020-03-13T16:43:24.724958+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:24.789966+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt'}
+2020-03-13T16:43:24.789966+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt
+2020-03-13T16:43:24.828966+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:24.830965+0530 TfidfModel(num_docs=25, num_nnz=1225) | INFO | TfidfModel(num_docs=25, num_nnz=1225)
+2020-03-13T16:43:24.853970+0530 sims: Similarity index with 25 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 25 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:28.416363+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:28.417363+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~6qJpzkeZ_cnc.jpg_2020-03-13 16_43_24.724958.txt
+2020-03-13T16:43:28.608378+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:28.705389+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt'}
+2020-03-13T16:43:28.705389+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt
+2020-03-13T16:43:28.747394+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:28.749393+0530 TfidfModel(num_docs=26, num_nnz=1251) | INFO | TfidfModel(num_docs=26, num_nnz=1251)
+2020-03-13T16:43:28.769391+0530 sims: Similarity index with 26 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 26 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:32.236661+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:32.236661+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~M06PtOlx_cnc.png_2020-03-13 16_43_28.608378.txt
+2020-03-13T16:43:32.422675+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:32.584689+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt'}
+2020-03-13T16:43:32.584689+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt
+2020-03-13T16:43:32.615689+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:32.618690+0530 TfidfModel(num_docs=27, num_nnz=1286) | INFO | TfidfModel(num_docs=27, num_nnz=1286)
+2020-03-13T16:43:32.633693+0530 sims: Similarity index with 27 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 27 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:36.096495+0530 85 | INFO | 85
+2020-03-13T16:43:36.099496+0530 
+
+ Group No : 85 | INFO | 
+
+ Group No : 85
+2020-03-13T16:43:36.099496+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\85\85~~__~~cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\85\85~~__~~cGmUZ76D_cnc.png_2020-03-13 16_43_32.422675.txt
+2020-03-13T16:43:36.299511+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:36.374517+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt'}
+2020-03-13T16:43:36.375518+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt
+2020-03-13T16:43:36.410520+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:36.412520+0530 TfidfModel(num_docs=28, num_nnz=1323) | INFO | TfidfModel(num_docs=28, num_nnz=1323)
+2020-03-13T16:43:36.428523+0530 sims: Similarity index with 28 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 28 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:39.882826+0530 
+
+ Group No : 59 | INFO | 
+
+ Group No : 59
+2020-03-13T16:43:39.882826+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\59\59~~__~~b3VKJ9PR_cnc.jpg_2020-03-13 16_43_36.299511.txt
+2020-03-13T16:43:40.081841+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:40.155847+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt'}
+2020-03-13T16:43:40.156846+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt
+2020-03-13T16:43:40.194847+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:40.197848+0530 TfidfModel(num_docs=29, num_nnz=1366) | INFO | TfidfModel(num_docs=29, num_nnz=1366)
+2020-03-13T16:43:40.214849+0530 sims: Similarity index with 29 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 29 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:43.888132+0530 86 | INFO | 86
+2020-03-13T16:43:43.892133+0530 
+
+ Group No : 86 | INFO | 
+
+ Group No : 86
+2020-03-13T16:43:43.892133+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\86\86~~__~~7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\86\86~~__~~7sCBE0Vy_cnc.jpg_2020-03-13 16_43_40.081841.txt
+2020-03-13T16:43:44.091155+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:44.168157+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt'}
+2020-03-13T16:43:44.169156+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt
+2020-03-13T16:43:44.208158+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:44.210157+0530 TfidfModel(num_docs=30, num_nnz=1393) | INFO | TfidfModel(num_docs=30, num_nnz=1393)
+2020-03-13T16:43:44.235171+0530 sims: Similarity index with 30 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 30 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:43:47.853439+0530 87 | INFO | 87
+2020-03-13T16:43:47.856441+0530 
+
+ Group No : 87 | INFO | 
+
+ Group No : 87
+2020-03-13T16:43:47.857440+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\87\87~~__~~40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\87\87~~__~~40Bb5bhe_cnc.jpg_2020-03-13 16_43_44.091155.txt
+2020-03-13T16:43:48.035454+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:43:48.095462+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_43_48.035454.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_43_48.035454.txt'}
+2020-03-13T16:43:48.096458+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_43_48.035454.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_43_48.035454.txt
+2020-03-13T16:43:48.135460+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:43:48.137460+0530 TfidfModel(num_docs=31, num_nnz=1421) | INFO | TfidfModel(num_docs=31, num_nnz=1421)
+2020-03-13T16:43:48.155461+0530 sims: Similarity index with 31 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 31 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:47:35.874476+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T16:47:35.877477+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T16:47:35.878478+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T16:47:43.747094+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:47:43.969112+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_47_43.747094.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_47_43.747094.txt'}
+2020-03-13T16:47:43.969112+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_47_43.747094.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_47_43.747094.txt
+2020-03-13T16:49:46.060924+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T16:49:46.062923+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T16:49:46.063923+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T16:49:51.944386+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:49:52.179407+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt'}
+2020-03-13T16:49:52.180405+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt
+2020-03-13T16:49:52.191404+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:49:52.192405+0530 TfidfModel(num_docs=5, num_nnz=75) | INFO | TfidfModel(num_docs=5, num_nnz=75)
+2020-03-13T16:49:52.193404+0530 sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 5 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:49:55.788810+0530 88 | INFO | 88
+2020-03-13T16:49:55.793803+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:49:55.794805+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~OaF2mBOA_cnc.png_2020-03-13 16_49_51.944386.txt
+2020-03-13T16:49:55.805806+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:49:55.890810+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt'}
+2020-03-13T16:49:55.891810+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt
+2020-03-13T16:49:55.899810+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:49:55.900811+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:49:55.905812+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:49:59.842118+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:49:59.842118+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~n6alLTAY_cnc.jpg_2020-03-13 16_49_55.805806.txt
+2020-03-13T16:49:59.845118+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:49:59.914125+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt'}
+2020-03-13T16:49:59.914125+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt
+2020-03-13T16:49:59.921123+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:49:59.922123+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:49:59.926124+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:03.473397+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:03.474398+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~LD41SyDd_cnc.jpg_2020-03-13 16_49_59.845118.txt
+2020-03-13T16:50:03.478408+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:03.533406+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt'}
+2020-03-13T16:50:03.533406+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt
+2020-03-13T16:50:03.539403+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:03.540403+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:03.543403+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:07.140142+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:07.141142+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~l5jfmNo7_cnc.jpg_2020-03-13 16_50_03.478408.txt
+2020-03-13T16:50:07.143142+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:07.212149+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt'}
+2020-03-13T16:50:07.213149+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt
+2020-03-13T16:50:07.218149+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:07.219148+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:07.222149+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:10.878431+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:10.880432+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~iAACpoMW_cnc.png_2020-03-13 16_50_07.143142.txt
+2020-03-13T16:50:10.882432+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:10.964439+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt'}
+2020-03-13T16:50:10.965441+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt
+2020-03-13T16:50:10.974438+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:10.975441+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:10.981442+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:14.564716+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:14.565715+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EK93BfNl_cnc.jpg_2020-03-13 16_50_10.882432.txt
+2020-03-13T16:50:14.568716+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:14.644723+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt'}
+2020-03-13T16:50:14.645723+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt
+2020-03-13T16:50:14.653723+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:14.654723+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:14.657723+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:17.983004+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:17.983004+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~ZOGXi7SN_cnc.jpg_2020-03-13 16_50_14.568716.txt
+2020-03-13T16:50:17.985005+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:18.047008+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\14_2020-03-13 16_50_17.985005.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\14_2020-03-13 16_50_17.985005.txt'}
+2020-03-13T16:50:18.048010+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\14_2020-03-13 16_50_17.985005.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\14_2020-03-13 16_50_17.985005.txt
+2020-03-13T16:50:18.053009+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:18.054008+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:18.057009+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:21.441356+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:21.443358+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~14_2020-03-13 16_50_17.985005.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~14_2020-03-13 16_50_17.985005.txt
+2020-03-13T16:50:21.447358+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:21.508362+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt'}
+2020-03-13T16:50:21.509361+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt
+2020-03-13T16:50:21.515362+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:21.516364+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:21.519875+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:24.966137+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:24.966137+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~QBG4wq4I_cnc.jpg_2020-03-13 16_50_21.447358.txt
+2020-03-13T16:50:24.969138+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:25.026140+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt'}
+2020-03-13T16:50:25.027140+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt
+2020-03-13T16:50:25.032140+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:25.033140+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:25.035140+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:28.607289+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:28.608290+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EJ2OH4ks_cnc.jpg_2020-03-13 16_50_24.969138.txt
+2020-03-13T16:50:28.613293+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:28.689294+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt'}
+2020-03-13T16:50:28.690294+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt
+2020-03-13T16:50:28.697293+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:28.698293+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:28.702298+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T16:50:32.347256+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T16:50:32.347256+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~B7fCFVmQ_cnc.jpg_2020-03-13 16_50_28.613293.txt
+2020-03-13T16:50:32.350256+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T16:50:32.406259+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5G4nAdUw.jpg_2020-03-13 16_50_32.350256.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\5G4nAdUw.jpg_2020-03-13 16_50_32.350256.txt'}
+2020-03-13T16:50:32.407260+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5G4nAdUw.jpg_2020-03-13 16_50_32.350256.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\5G4nAdUw.jpg_2020-03-13 16_50_32.350256.txt
+2020-03-13T16:50:32.413260+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T16:50:32.413260+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T16:50:32.416260+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:02:42.947305+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:02:42.957304+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:02:42.958305+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:02:49.370415+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:02:49.658480+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt'}
+2020-03-13T18:02:49.662481+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt
+2020-03-13T18:02:49.690488+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:02:49.690488+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:02:49.694489+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:02:54.009661+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:02:54.009661+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_02_49.370415.txt
+2020-03-13T18:08:34.217028+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:08:34.221029+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:08:34.221029+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:08:40.191993+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:08:40.428047+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt'}
+2020-03-13T18:08:40.428047+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt
+2020-03-13T18:08:40.440059+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:08:40.440059+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:08:40.444052+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:08:43.821790+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:08:43.823957+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_08_40.191993.txt
+2020-03-13T18:09:36.821762+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:09:36.821762+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:09:36.821762+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:09:42.709158+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:09:42.954342+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt'}
+2020-03-13T18:09:42.954342+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt
+2020-03-13T18:09:42.964696+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:09:42.964696+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:09:42.968614+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:09:46.402963+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:09:46.402963+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_09_42.709158.txt
+2020-03-13T18:13:21.325555+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:13:21.329536+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:13:21.333543+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:13:26.926919+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:13:27.162329+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt'}
+2020-03-13T18:13:27.162329+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt
+2020-03-13T18:13:27.174381+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:13:27.174381+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:13:27.178338+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:13:30.770737+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:13:30.770737+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~VQ5BtFIx_cnc.jpg_2020-03-13 18_13_26.926919.txt
+2020-03-13T18:13:31.386885+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:13:31.446899+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt'}
+2020-03-13T18:13:31.446899+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt
+2020-03-13T18:13:31.450901+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:13:31.450901+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:13:31.458903+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:13:34.921235+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:13:34.921235+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EJ2OH4ks_cnc.jpg_2020-03-13 18_13_31.386885.txt
+2020-03-13T18:13:35.991409+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:13:36.079667+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt'}
+2020-03-13T18:13:36.079667+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt
+2020-03-13T18:13:36.087529+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:13:36.087529+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:13:36.091557+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:13:39.599206+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:13:39.599206+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~Qn08Licj_cnc.jpg_2020-03-13 18_13_35.991409.txt
+2020-03-13T18:13:40.085591+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:13:40.153610+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\42F3S7Iy_cnc.jpg_2020-03-13 18_13_40.085591.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\42F3S7Iy_cnc.jpg_2020-03-13 18_13_40.085591.txt'}
+2020-03-13T18:13:40.153610+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\42F3S7Iy_cnc.jpg_2020-03-13 18_13_40.085591.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\42F3S7Iy_cnc.jpg_2020-03-13 18_13_40.085591.txt
+2020-03-13T18:13:40.160601+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:13:40.160601+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:13:40.163597+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:15:39.416963+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:15:39.420964+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:15:39.420964+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:15:45.000365+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:15:45.246041+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt'}
+2020-03-13T18:15:45.246041+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt
+2020-03-13T18:15:45.256357+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:15:45.260359+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:15:45.260359+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:15:48.661405+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:15:48.661405+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~42F3S7Iy_cnc.jpg_2020-03-13 18_15_45.000365.txt
+2020-03-13T18:15:49.442681+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:15:49.501683+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt'}
+2020-03-13T18:15:49.501683+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt
+2020-03-13T18:15:49.508682+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:15:49.508682+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:15:49.511683+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:15:52.914105+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:15:52.914105+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~BM7wZCxi_cnc.jpg_2020-03-13 18_15_49.442681.txt
+2020-03-13T18:15:53.592570+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:15:53.658690+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt'}
+2020-03-13T18:15:53.658690+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt
+2020-03-13T18:15:53.666692+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:15:53.666692+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:15:53.670694+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:15:57.069631+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:15:57.069631+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~7y9N9sIG_cnc.jpg_2020-03-13 18_15_53.592570.txt
+2020-03-13T18:15:57.528040+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:15:57.596056+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt'}
+2020-03-13T18:15:57.596056+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt
+2020-03-13T18:15:57.601109+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:15:57.601109+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:15:57.605112+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:16:01.127226+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:16:01.129227+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~yiYZzsHJ_cnc.jpg_2020-03-13 18_15_57.528040.txt
+2020-03-13T18:16:01.771275+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:16:01.851318+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\AhwWyfrW_cnc.jpg_2020-03-13 18_16_01.771275.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\AhwWyfrW_cnc.jpg_2020-03-13 18_16_01.771275.txt'}
+2020-03-13T18:16:01.851318+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\AhwWyfrW_cnc.jpg_2020-03-13 18_16_01.771275.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\AhwWyfrW_cnc.jpg_2020-03-13 18_16_01.771275.txt
+2020-03-13T18:16:01.855305+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:16:01.855305+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:16:01.859307+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:17:28.421967+0530 
+
+ templates  : [] | INFO | 
+
+ templates  : []
+2020-03-13T18:17:28.425791+0530  
+
+ id_to_category : {} | INFO |  
+
+ id_to_category : {}
+2020-03-13T18:17:28.425791+0530  
+
+ classification :-> is_model_enabled : 0 | INFO |  
+
+ classification :-> is_model_enabled : 0
+2020-03-13T18:17:35.816234+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:17:36.084084+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt'}
+2020-03-13T18:17:36.084084+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt
+2020-03-13T18:17:36.098171+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:17:36.098171+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:17:36.102169+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:17:40.005713+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:17:40.005713+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~AhwWyfrW_cnc.jpg_2020-03-13 18_17_35.816234.txt
+2020-03-13T18:17:40.692080+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:17:40.764097+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt'}
+2020-03-13T18:17:40.764097+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt
+2020-03-13T18:17:40.772099+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:17:40.772099+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:17:40.776102+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:17:44.459412+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:17:44.459412+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~OaF2mBOA_cnc.png_2020-03-13 18_17_40.692080.txt
+2020-03-13T18:17:45.272693+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:17:45.345848+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt'}
+2020-03-13T18:17:45.349835+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt
+2020-03-13T18:17:45.360172+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:17:45.360172+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:17:45.366231+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:17:48.891915+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:17:48.891915+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~EK93BfNl_cnc.jpg_2020-03-13 18_17_45.272693.txt
+2020-03-13T18:17:49.573941+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:17:49.655856+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt'}
+2020-03-13T18:17:49.655856+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt
+2020-03-13T18:17:49.665731+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:17:49.665731+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:17:49.669732+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
+2020-03-13T18:17:53.206555+0530 
+
+ Group No : 88 | INFO | 
+
+ Group No : 88
+2020-03-13T18:17:53.206555+0530 C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt | INFO | C:\Users\gdnau\Giri\dfx\unclassified_doc\template\88\88~~__~~RWjPAu3M_cnc.jpg_2020-03-13 18_17_49.573941.txt
+2020-03-13T18:17:53.656749+0530 
+****************** filter_text_from_file : | INFO | 
+****************** filter_text_from_file :
+2020-03-13T18:17:53.744770+0530 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\M06PtOlx_cnc.png_2020-03-13 18_17_53.656749.txt'} | INFO | 
+
+
+ data_processing: {'text_file_name': 'C:\\Users\\gdnau\\Giri\\dfx\\tmp_source\\M06PtOlx_cnc.png_2020-03-13 18_17_53.656749.txt'}
+2020-03-13T18:17:53.748792+0530  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\M06PtOlx_cnc.png_2020-03-13 18_17_53.656749.txt | INFO |  
+ Classification: txt_filename C:\Users\gdnau\Giri\dfx\tmp_source\M06PtOlx_cnc.png_2020-03-13 18_17_53.656749.txt
+2020-03-13T18:17:53.752786+0530 Creating TF-IDF model | INFO | Creating TF-IDF model
+2020-03-13T18:17:53.752786+0530 TfidfModel(num_docs=6, num_nnz=109) | INFO | TfidfModel(num_docs=6, num_nnz=109)
+2020-03-13T18:17:53.756772+0530 sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training) | INFO | sims: Similarity index with 6 documents in 0 shards (stored under C:\Users\gdnau\Giri\dfx\sim_training)
