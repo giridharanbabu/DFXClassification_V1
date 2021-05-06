@@ -29,7 +29,7 @@ click==7.0
 xlrd==1.2.0
 loguru==0.3.2
 psutil==5.6.3
-flask_cors==3.0.8
+flask_cors==3.0.9
 spacy==2.1.8
 Flask-APScheduler==1.11.0
 pyfiglet==0.8.post1
