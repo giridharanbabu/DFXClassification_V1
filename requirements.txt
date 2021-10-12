@@ -2,7 +2,7 @@ elasticsearch
 little_pger
 PyPDF2==1.26.0
 pytesseract==0.3.0
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 scipy==1.3.1
 wheel==0.33.4
 numpy==1.17.3
